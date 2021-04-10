@@ -1,6 +1,6 @@
 ---
-app_user: "sammy"
-http_host: "your_domain"
-http_conf: "your_domain.conf"
+app_user: "ubuntu"
+http_host: "tien_simplilearn"
+http_conf: "tien_simplilearn.conf"
 http_port: "80"
 disable_default: true
